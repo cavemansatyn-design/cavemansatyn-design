@@ -58,28 +58,12 @@
 ## Projects
 
 - Chrome Dino Automation Bot  
-  - Computer vision bot using OpenCV that automates the offline Chrome Dino game  
-  - Detects obstacles in real time and triggers keyboard inputs automatically  
-
-- Disaster Insurance Smart Contract System  
-  - Blockchain-based insurance system using risk scores based on natural calamity tendencies  
-  - Built with Solidity, Hardhat, React, and MetaMask integration  
-
+- Disaster Insurance Smart Contract System 
 - College ERP System  
-  - Java-based ERP platform for managing student records and academic data  
-  - Modular backend design for course and record management  
-
 - Lightweight Code Management UI Tool  
-  - Simplified UI-based alternative to Git/GitHub  
-  - Designed for beginners and small teams to manage code without heavy CLI usage  
-
 - Multilingual Speech Chatbot  
-  - Speech-based chatbot for data collection and customer queries  
-  - Supports multilingual interaction and report generation  
-
 - RISC-V Assembler and Simulator  
-  - Converts RISC-V assembly into machine instructions  
-  - Simulates execution to help understand computer architecture concepts  
+ 
 
 ---
 
