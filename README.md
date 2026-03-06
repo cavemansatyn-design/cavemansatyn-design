@@ -1,4 +1,4 @@
-# Hi 👋 I'm Satyam Singh
+# Hi I'm Satyam
 
 - B.Tech in Computer Science & Artificial Intelligence @ IIIT Delhi  
 - Developer interested in AI, Systems, Web, and Blockchain  
