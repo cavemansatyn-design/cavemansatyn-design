@@ -1,6 +1,6 @@
 # Hi I'm Satyam
 
-- B.Tech in Computer Science & Artificial Intelligence @ IIIT Delhi  
+- B.Tech in Computer Science & Artificial Intelligence @ IIIT Delhi (2nd Year)
 - Developer interested in AI, Systems, Web, and Blockchain  
 - Building projects in ML, computer vision, developer tools, and Web3  
 
