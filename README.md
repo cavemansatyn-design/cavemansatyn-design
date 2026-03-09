@@ -57,12 +57,14 @@
 
 ## Projects
 
-- Chrome Dino Automation Bot  
-- Disaster Insurance Smart Contract System 
-- College ERP System  
-- Lightweight Code Management UI Tool  
-- Multilingual Speech Chatbot  
-- RISC-V Assembler and Simulator  
+- Chrome Dino Automation Bot
+- Disaster Insurance Smart Contract System
+- College ERP System
+- Lightweight Code Management UI Tool
+- Multilingual Speech Chatbot
+- RISC-V Assembler and Simulator
+- Smart Urban Slum Data Aggregation and Mapping System
+- Fleet Highway Simulator 
  
 
 ---
