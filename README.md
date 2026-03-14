@@ -64,7 +64,8 @@
 - Multilingual Speech Chatbot
 - RISC-V Assembler and Simulator
 - Smart Urban Slum Data Aggregation and Mapping System
-- Fleet Highway Simulator 
+- Fleet Highway Simulator
+- BlindVerdict AI Legal System
  
 
 ---
